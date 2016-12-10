@@ -1,0 +1,1 @@
+var jquery = require('./node_modules/jquery');
